@@ -1,6 +1,6 @@
-684690072fe879c37f0e6b2a035bf940 *DESCRIPTION
+c24a9bd0d337cb07ea7a0ef7fe0e0a02 *DESCRIPTION
 51cea330dc7927eab286c5ffb580196e *NAMESPACE
-d41d8cd98f00b204e9800998ecf8427e *NEWS.md
+70d62ba0f0ada6c5a37cc2faf1530b5a *NEWS.md
 350fe1aafb2e8b91688d2ccd31a97bf0 *R/CCASAnetData.R
 0e2d1e67b3a6f189c1f5cf1f437ba208 *R/HighestRankAndRestrictedSpearman.R
 daa1048280ae168cd2ea7b98abb49b5e *R/data123.R
@@ -24,7 +24,7 @@ d41d8cd98f00b204e9800998ecf8427e *README.md
 3ad32a6a88128ab5af9b7f8c58a08c47 *data/data123.rda
 57b781afa12bc5eea130167c21b9de7d *inst/doc/survSpearman.R
 866f7ca15f1f768ef912641685379dcb *inst/doc/survSpearman.Rmd
-d4b2fb48c6254834428a9d6f567accc7 *inst/doc/survSpearman.html
+b4c2cbd737f0ee56645b2e3a5e897197 *inst/doc/survSpearman.html
 740fe907fd637f6ec5cb2a2add50dbeb *man/CCASAnetData.Rd
 526c3e9f06b10d80b8e08e7817644320 *man/data123.Rd
 8b934259f94bbf3ec47754578fd06905 *man/fillUpDecimals.Rd

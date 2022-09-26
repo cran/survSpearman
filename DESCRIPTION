@@ -1,6 +1,6 @@
 Package: survSpearman
 Title: Nonparametric Spearman's Correlation for Survival Data
-Version: 1.0.0
+Version: 1.0.1
 Authors@R: c(person("Svetlana", "Eden", email = "svetlana.k.eden.1@vumc.org",
   role = c("aut", "cre")), person("Chun", "Li", email = "cli77199@usc.edu",
   role = c("aut", "anl")), person("Bryan", "Shepherd", email = "bryan.shepherd@vumc.org",
@@ -15,9 +15,9 @@ RoxygenNote: 7.1.1
 Suggests: knitr, rmarkdown
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2021-01-26 18:12:32 UTC; svetlanaeden
+Packaged: 2022-09-26 15:39:56 UTC; svetlanaeden
 Author: Svetlana Eden [aut, cre],
   Chun Li [aut, anl],
   Bryan Shepherd [aut, anl]
 Repository: CRAN
-Date/Publication: 2021-01-29 09:40:02 UTC
+Date/Publication: 2022-09-26 17:40:02 UTC
